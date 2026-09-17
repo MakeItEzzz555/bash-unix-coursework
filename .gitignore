@@ -8,3 +8,10 @@ Thumbs.db
 .env.*
 !.env.example
 *.log
+
+# Mac archival additions
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+SimpleAuth/data/users.json
