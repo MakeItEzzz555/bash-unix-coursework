@@ -2,7 +2,7 @@
 
 if [ $# -eq 0 ]; then
     echo "Error: No arguments given."
-    echo "Usage: ./arstats.sh num1 num2 num3 ..."
+    echo "Usage: ./revision2ex2.sh num1 num2 num3 ..."
     exit 1
 fi
 
